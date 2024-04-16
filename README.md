@@ -36,7 +36,7 @@
 
     <p>a) 1, 3, 5, 7,<strong><code>9</code></strong> resolução: Cada número é igual ao anterior + 2, formando os numeros ímpares</p>
 
-    <p>b) 2, 4, 8, 16, 32, 64, <strong><code>128</code> resolução: Cada número é igual ao anterior multiplicado por 2</strong></p>
+    <p>b) 2, 4, 8, 16, 32, 64, <strong><code>128</code></strong> resolução: Cada número é igual ao anterior multiplicado por 2</p>
 
     <p>c) 0, 1, 4, 9, 16, 25, 36, <strong><code>49</code></strong> resolução: Cada número é igual ao anterior somado a um numero ímpar seguindo a sequencia 1,3,5,7,9,11 e 13 </p>
 
